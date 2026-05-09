@@ -1,2 +1,2 @@
 # engineering-portfolio
-3D and 2D Parts/Assembles
+Mechanical design and CAD projects portfolio.
